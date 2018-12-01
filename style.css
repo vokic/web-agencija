@@ -31,7 +31,7 @@ header, footer {
   margin-right: 5%;
 }
 
-.tim{
+.tim {
   display: flex;
   justify-content:space-between;
   align-items: center;
