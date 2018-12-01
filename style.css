@@ -22,3 +22,17 @@ header, footer {
     color: white;
     text-decoration: none;
   }
+
+.tim img{
+  border-radius: 50%;
+}
+
+.tim p{
+  margin-right: 5%;
+}
+
+.tim{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
