@@ -1,4 +1,11 @@
 
+body{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: 'Roboto', sans-serif;
+
+}
+
 nav a {
     background: #1E90FF;
     color: #fff;
@@ -14,5 +21,4 @@ header, footer {
     background-color: #B0C4DE;
     color: white;
     text-decoration: none;
-
   }
